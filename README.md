@@ -1,5 +1,5 @@
 # UNet-Plus-Plus-Segmention-with-mobilenetv3
-Using Unet architecture as decoder and MobileNet V3 as encoder
+Using U-net architecture as decoder and MobileNet V3 and V2 as encoder
 The official code for ["Covid-19 CT scans dataset_"](https://www.kaggle.com/datasets/andrewmvd/mosmed-covid19-ct-scans).
 
 ## How to use
